@@ -1,0 +1,13 @@
+{
+  "name": "mirror-code",
+  "version": "4.8.0",
+  "description": "Mirror Code V4.8 - IDE studio 3 couches avec preview local automatique",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^38.1.2",
+    "monaco-editor": "^0.52.2"
+  }
+}
